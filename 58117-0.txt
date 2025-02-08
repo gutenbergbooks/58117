@@ -1,37 +1,7 @@
-The Project Gutenberg EBook of Musical Instruments, by A. J. Hipkins
-
-This eBook is for the use of anyone anywhere in the United States and
-most other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms
-of the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll
-have to check the laws of the country where you are located before using
-this ebook.
+*** START OF THE PROJECT GUTENBERG EBOOK 58117 ***
 
 
 
-Title: Musical Instruments
-       Historic, Rare and Unique
-
-Author: A. J. Hipkins
-
-Illustrator: William Gibb
-
-Release Date: October 17, 2018 [EBook #58117]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK MUSICAL INSTRUMENTS ***
-
-
-
-
-Produced by Chris Curnow, Linda Cantoni, and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-file was produced from images generously made available
-by The Internet Archive)
 
 
 
@@ -59,7 +29,7 @@ BY
 
 A.J. HIPKINS, F.S.A. LOND.
 
-AUTHOR OF THE ARTICLE "PIANOFORTE" IN THE ENCYCLOP∆DIA BRITANNICA
+AUTHOR OF THE ARTICLE "PIANOFORTE" IN THE ENCYCLOP√ÜDIA BRITANNICA
 
 
 ILLUSTRATED BY
@@ -133,13 +103,13 @@ CONTENTS.
 
   QUINTERNA AND MANDOLINE                                       XXIII.
 
-  WELSH CRWTH. RUSSIAN BALALƒIKA                                 XXIV.
+  WELSH CRWTH. RUSSIAN BALAL√ÑIKA                                 XXIV.
 
   VIOLIN--THE HELLIER STRADIVARIUS,
     AND TWO OLD BOWS NOTED FOR THE FLUTING                        XXV.
 
   VIOLINS--THE ALARD STRADIVARIUS,
-    THE KING JOSEPH GUARNERIUS DEL GESŸ                          XXVI.
+    THE KING JOSEPH GUARNERIUS DEL GES√ô                          XXVI.
 
   VIOLA D'AMORE                                                 XXVII.
 
@@ -164,11 +134,11 @@ CONTENTS.
   LITUUS AND BUCCINA. CORNET. TRUMPETS                         XXXVII.
 
   TWO DOUBLE FLAGEOLETS, A GERMAN FLUTE,
-    AND TWO FL€TES DOUCES                                     XXXVIII.
+    AND TWO FL√õTES DOUCES                                     XXXVIII.
 
   DOLCIANO. OBOE. BASSOON. OBOE DA CACCIA. BASSET HORN          XXXIX.
 
-  SIT¡RS AND VÕNA                                                  XL.
+  SIT√ÅRS AND V√çNA                                                  XL.
 
   INDIAN DRUMS                                                    XLI.
 
@@ -177,7 +147,7 @@ CONTENTS.
 
   RANAT EK. KHONG YAI. TA'KHAY                                  XLIII.
 
-  HU-CH'IN AND BOW. SH NG. SAN-HSIEN. P'I-P'A                    XLIV.
+  HU-CH'IN AND BOW. SH√äNG. SAN-HSIEN. P'I-P'A                    XLIV.
 
   CHINESE TI-TZU, SO-NA, YUEH-CH'IN.
     JAPANESE HIJI-RIKI. CHINESE LA-PA                             XLV.
@@ -202,14 +172,14 @@ INTRODUCTION.
 
 It is claimed for this book, intended to illustrate rare historical
 and beautiful Musical Instruments, that it is unique. Classical,
-MediÊval, Japanese, and other varieties of Decorative Art,
+Medi√¶val, Japanese, and other varieties of Decorative Art,
 Weapons, and Costumes, have found worthy illustration and adequate
 description, but hitherto no attempt has been made to represent
 in a like manner the grace and external charm of fine lutes and
 harps, of viols, virginals, and other instruments. Engravings have
 been produced, in historical or technical works; but the greater
 number of these are mere repetitions continued from one to the
-other, and have no specially Êsthetic interest. Beauty of form and
+other, and have no specially √¶sthetic interest. Beauty of form and
 fitness of decoration demand more than the commonplace homage paid
 to simple use, and while we should never lose sight of the purpose
 of a musical instrument, its capacity to produce agreeable and
@@ -311,7 +281,7 @@ beautiful Siamese Ranat and Khong (Plate XLIII.) and the Zulu Marimba
 (Plate XLVIII.) are examples of this wide distribution, and in the
 latter the gourd resonators attached to the bars show the simplest
 form of sound reinforcers, which, perfected in various Eastern
-instruments, such as the Indian VÌnas and Sit·rs (Plate XL.) has in
+instruments, such as the Indian V√≠nas and Sit√°rs (Plate XL.) has in
 Europe attained its crowning artistic development in the beautiful
 pear-shaped Resonance bodies of the Lute and Mandoline. We find
 also varieties of this beautiful form in the Georgian and Turcoman
@@ -327,7 +297,7 @@ in the transmission of these instruments, and of a taste for the
 _pizzicato_, and also of an elaboration of vocal and instrumental
 ornament, which has remained in the popular airs and dances of
 that country, and, an important characteristic of the music of the
-Troubadours and TrouvËres, has left its mark upon our modern music
+Troubadours and Trouv√®res, has left its mark upon our modern music
 everywhere. The Arab blood in Spain may have tended to preserve the
 use of the guitar as a national instrument in that country. A Guitar
 (Plate XXIX.) and a Cetera (Plate XXVIII.) made by Stradivarius,
@@ -381,7 +351,7 @@ has successfully inlaid one of his masterpieces with an appropriate
 design. Another violin by the same illustrious master, in this
 instance without adornment, is drawn in Plate XXVI. The particular
 characteristics of another famous Cremona maker, Giuseppe Guarneri,
-who signed himself "Del Ges˘," and is accounted Stradivari's only
+who signed himself "Del Ges√π," and is accounted Stradivari's only
 rival, are also illustrated in this plate. With forty-eight plates,
 however, to which this work is limited, no complete scheme can be
 offered of the rich varieties of musical instruments that exist, but
@@ -439,7 +409,7 @@ associated, as the interesting Dover and Canterbury Horns (Plate I.)
 were, with municipal customs. Horns were sounded for the curfew,
 and an especially characteristic example of such horn-blowing is a
 dramatic feature introduced by Wagner at the close of the second act
-of his Shakespearean Music Drama, _Die Meistersinger von N¸rnberg_.
+of his Shakespearean Music Drama, _Die Meistersinger von N√ºrnberg_.
 Earl Spencer's very beautiful ivory horn or Oliphant (Plate VII.) was
 most likely intended for the chase. Of other simple wind instruments
 depending upon the player's lips, the ancient Roman Lituus and
@@ -451,7 +421,7 @@ produced exactly as they are in the trumpet and bugle we are familiar
 with--from the vibration of the lips, varying with the pressure and
 force of wind within a cup-like mouthpiece. These tones, being from
 natural harmonics, are not different now from what they were when
-CÊsar first landed in Britain, or, indeed, the first notes from a
+C√¶sar first landed in Britain, or, indeed, the first notes from a
 horn that were ever produced. Of modern brass instruments drawn,
 there are two possessing historical interest--the Cavalry Bugle in
 Plate XXXVI. which belongs to H.R.H. the Prince of Wales, and sounded
@@ -544,7 +514,7 @@ taken advantage of by Wagner and other recent composers.
 The familiar Organ is shown in the Positive and Portable organs
 (l'orgue positif et portatif), small instruments representing reduced
 front portions of the Montre, the visible speaking pipes of the
-mediÊval church organ, which was neither more nor less than a large
+medi√¶val church organ, which was neither more nor less than a large
 mixture register; that is to say, each key when put down sounded
 the octave, twelfth, super-octave, and other notes simultaneously
 with the fundamental note. The movement of the Plain Song, or of any
@@ -573,7 +543,7 @@ The chromatic keys are here put farther back than in our usual
 key-boards, as they were also in the fourteenth-century Halberstadt
 organ. The fourteenth-century portable organ drawn in _Critical
 and Bibliographical Notes on Early Spanish Music_, by Don Juan F.
-RiaÒo (Quaritch, London), 1887, p. 127, shows the B flat only, and
+Ria√±o (Quaritch, London), 1887, p. 127, shows the B flat only, and
 figured as an upper key, apparently not raised, but level with the
 natural keys, which agrees with contemporary representations of the
 instrument by Fra Angelico. The Portable Organ (Plate XIII.) here
@@ -593,17 +563,17 @@ frame, and when vibrating produces a more or less jarring or strident
 quality of tone. As the free reed does not touch its frame it is less
 harsh in quality. But the latter variety of reed is of very recent
 introduction into Europe. Strangely enough, it has been taken from
-a Chinese mouth organ of great antiquity, the ShÍng! This Chinese
+a Chinese mouth organ of great antiquity, the Sh√™ng! This Chinese
 instrument has seventeen sounding pipes, each furnished with a small
 brass or copper free reed, and is usually sounded by drawing in the
 wind, not blowing, being in this respect followed by the present
-American organ. The adoption in Europe of the principle of the ShÍng
+American organ. The adoption in Europe of the principle of the Sh√™ng
 was due to an application of it at St. Petersburg by an organ-builder
-named Kirsnick, about 1780, and the enthusiastic advocacy of the AbbÈ
+named Kirsnick, about 1780, and the enthusiastic advocacy of the Abb√©
 Vogler. (Sir George Grove's _Dictionary of Music and Musicians_, Art.
 "Vogler," by the Rev. J.H. Mee.) From it are derived our accordion
 and concertinas, harmonium and American organ, as well as sundry
-musical toys. The ShÍng is drawn in Plate XLIV. It is familiar in
+musical toys. The Sh√™ng is drawn in Plate XLIV. It is familiar in
 Japan, with some variation, as the Sho, and a larger instrument on
 the same principle used in the Lao States of Siam is there called
 Ph[=a]n. In nearly all instances it is retained as a solo instrument.
@@ -616,8 +586,8 @@ Harp-like instruments, but with resonance bodies beneath the strings,
 appear in their oldest, but a yet highly developed form, in the
 Chinese Ch'in, or Scholar's Lute. The Japanese Sono Koto (Plate
 XLVI.) is derived from a modification of the Ch'in, known in China as
-the SÍ, the difference being that while the Ch'in has fixed bridges
-and a system of stopping, the SÍ, and consequently the Koto, have
+the S√™, the difference being that while the Ch'in has fixed bridges
+and a system of stopping, the S√™, and consequently the Koto, have
 movable bridges and no stops. The Koto is tuned according to the
 five notes in the octave system that prevails in Japan and, with a
 difference in the division of the scale, in China, named, by the late
@@ -684,7 +654,7 @@ the Crwth would appear to have been the classical lyre submitted to
 changes that had come with time, and, as the Continental Rote or
 Rotta, it was a very common form of instrument in the Middle Ages.
 It had to give way before Eastern stringed instruments, such as the
-rebec and lute. The VÌna (Plate XL.) is the characteristic Hindu
+rebec and lute. The V√≠na (Plate XL.) is the characteristic Hindu
 stringed instrument, and has a great antiquity attributed to it. The
 string is theoretically said to be divided into twenty-two small
 intervals in the octave, of equal extent, called _s'ruti_, by which
@@ -696,11 +666,11 @@ Gourd resonators have been mentioned as of probably very ancient use,
 and the employment of sympathetic strings, in vogue in Europe only
 in the seventeenth and eighteenth centuries, may be added as also
 of remote origin in India. The Hindus and Persians have both used
-gourds attached to the VÌnas and Sit·rs (Plate XL.) for resonance. In
-Southern India, where the use of the original Hindu VÌna prevails,
+gourds attached to the V√≠nas and Sit√°rs (Plate XL.) for resonance. In
+Southern India, where the use of the original Hindu V√≠na prevails,
 although the scale now used is at least heptatonic, there is still
 a leaning towards pentatonic forms of melody. The accordances are
-in fourths or fifths and octaves. The Sit·r of Northern India and
+in fourths or fifths and octaves. The Sit√°r of Northern India and
 greater use of the interval of the third may be attributed to Persian
 introduction; but throughout India, and more intensely in the south,
 music is felt as a poetic art, and has a development in its own way,
@@ -800,7 +770,7 @@ The pictorial representation of the subjects was undertaken by Mr.
 William Gibb, and the plates in this volume have been successfully
 reproduced from his admirable drawings. The book gains, moreover,
 a special and unexpected value from the fact that no illustrated
-Catalogue RaisonnÈ was compiled of the Music Loan Collection of 1885,
+Catalogue Raisonn√© was compiled of the Music Loan Collection of 1885,
 which combined the most beautiful and valuable Manuscripts, Books,
 Paintings, etc., as well as Musical Instruments, which were ever
 brought together. There were no funds available, nor was there time
@@ -832,9 +802,9 @@ Horne Blowying). This practice continued until the year 1670, and is
 not yet entirely done away with, as it is still blown on the occasion
 of certain Municipal ceremonies. The motto on this horn is:--
 
-JOHANNES DE ∑ ALLEMAINE ∑ ME ∑ FECIT ∑
+JOHANNES DE ¬∑ ALLEMAINE ¬∑ ME ¬∑ FECIT ¬∑
 
-preceded by the talismanic letters A∑G∑L∑A, which stand for the
+preceded by the talismanic letters A¬∑G¬∑L¬∑A, which stand for the
 Hebrew [Hebrew: atah gibor l'olam Adonai] and mean, "Thou art mighty
 for ever, O Lord!" The horn, which is 31-3/4 inches long, with a
 circumference at the larger end of 15-1/2 inches, is of brass, and
@@ -935,9 +905,9 @@ and published in their _Proceedings_ for 1880-81, from which I have
 made extracts, thoroughly sifts the facts that can be deduced from
 it, and which may be thus accepted:--Queen Mary of Lorraine, the
 mother of Mary Queen of Scots, gave this harp to Beatrix Gardyn of
-Banchory, Aberdeenshire. Beatrix Gardyn was married to Finla MÛr,
+Banchory, Aberdeenshire. Beatrix Gardyn was married to Finla M√≥r,
 and from this marriage the family of Farquharson of Invercauld, in
-Braemar, is descended. Finla MÛr was killed at the battle of Pinkie
+Braemar, is descended. Finla M√≥r was killed at the battle of Pinkie
 in A.D. 1547. John Robertson, the eleventh in succession
 to Lude, married Margaret Farquharson, the only daughter of the
 then Laird of Invercauld. He was fifty-six years in possession of
@@ -956,8 +926,8 @@ Troup and Glenlyon.
 Queen Mary's and the Lamont Harps are on loan (1887) in the Museum
 of the Scottish Society of Antiquaries, Edinburgh, and it may be
 mentioned that when exhibited in the Music Loan Collection, South
-Kensington, the former was insured for £1500 and the latter for
-£1000.
+Kensington, the former was insured for ¬£1500 and the latter for
+¬£1000.
 
 
 
@@ -1052,7 +1022,7 @@ the blind and to the wandering mendicant class. But polite society
 in France resumed these instruments again in the modern Arcadia of
 Louis XIV. and XV.--not the Cornemuse, it is true, for that has ever
 remained a rustic instrument, as may be observed in the glowing pages
-of George Sand's _Les MaÓtres Sonneurs_. The Cornemuse, as formerly
+of George Sand's _Les Ma√Ætres Sonneurs_. The Cornemuse, as formerly
 used in France and the Netherlands, is derived from the Roman _tibia
 utricularis_, and is provided with a bag, inflated by the mouth of
 the player, while a double reed is attached to the melody pipe or
@@ -1137,7 +1107,7 @@ it has in common with the other Bagpipes in this Plate. The bellows
 of the modern Northumbrian Bagpipe are also drawn.
 
 The Bagpipe is, as Mr. Henri Lavoix has justly said in his _La
-Musique au SiËcle de Saint Louis_, the organ reduced to its most
+Musique au Si√®cle de Saint Louis_, the organ reduced to its most
 simple expression. It is of great antiquity, and in the Middle Ages
 was generally popular in Europe. It was as well known in England as
 in Scotland, in France as in Italy and Germany. Shakspeare makes out
@@ -1549,10 +1519,10 @@ a present of the first one to a king, or to kings having had
 in their establishments special regal-makers. Rigabello, a now
 unknown instrument which is said to have preceded the organ in
 Venice, is also quoted as the origin of the name. I have elsewhere
-(_EncyclopÊdia Britannica_, article Pianoforte) suggested that
+(_Encyclop√¶dia Britannica_, article Pianoforte) suggested that
 "regal" may have come from "regula," a rule, the idea of gradation
 being inherent in a key-board. The wooden harmonicon, when made to
-play by a key-board, was at one time called regal (rÈgale en bois).
+play by a key-board, was at one time called regal (r√©gale en bois).
 
 
 
@@ -1717,7 +1687,7 @@ might here be made on the masterly way in which contemporary painters
 drew hands and lutes. I need only name those masters of the Dutch
 school, Frans Hals, Jan Steen, and Terburg, especially Steen, whose
 truthful precision compels admiration. Of another school, there is a
-lute-player drawn by Albrecht D¸rer, that is a miracle of skill and
+lute-player drawn by Albrecht D√ºrer, that is a miracle of skill and
 accuracy of observation.
 
 A considerable literature of the lute exists belonging to the
@@ -1733,14 +1703,14 @@ of information about the lute, as well as of contemporary music
 generally, are _La Musique aux Pays Bas_, Edmond Vander Straeten
 (Brussels, 1867-85), from a future volume of which a monograph has
 been published in anticipation, entitled _Jacques de Saint-Luc,
-Luthiste Athois du xviie. siËcle_ (Mayence, 1887); _Musique et
-Musiciens au xviie. siËcle_, a publication of the "SociÈtÈ pour
+Luthiste Athois du xviie. si√®cle_ (Mayence, 1887); _Musique et
+Musiciens au xviie. si√®cle_, a publication of the "Soci√©t√© pour
 l'Histoire Musicale des Pays-Bas," edited by W.J.A. Jonckbloet
 and J.P.N. Land, and containing the musical correspondence of the
 astronomer Constantin Huygens (Leyden, 1882); and a monograph upon
 the famous Parisian lutenist, Denis Gaultier, by Oscar Fleischer,
-published in the _Vierteljahrschrift f¸r Musikwissenschaft_ for
-January and April 1886 (Leipsic, Breitkopf and H‰rtel). The first
+published in the _Vierteljahrschrift f√ºr Musikwissenschaft_ for
+January and April 1886 (Leipsic, Breitkopf and H√§rtel). The first
 three-quarters of the seventeenth century was a period remarkable for
 a refined amateur cultivation of instrumental music. Shakspeare's
 appreciation of the lute, and his graceful tribute of admiration
@@ -1772,7 +1742,7 @@ or melody string. In the true theorbo, the Paduan according to
 Baron (_Untersuchung des Instruments der Lauten_, Nuremberg, 1727,
 p. 131),--the diapasons were single strings. When the diapasons
 were in pairs of strings the instrument was, according to Mersenne
-(_Harmonie Universelle_, Paris, 1636), called (French) "Luth tÈorbÈ"
+(_Harmonie Universelle_, Paris, 1636), called (French) "Luth t√©orb√©"
 or (Italian) "Liuto attiorbato," a theorboed lute. It must, however,
 be admitted that Mersenne's rule is not of strict application. The
 single strings introduced, in the first instance, for basses, at
@@ -1807,7 +1777,7 @@ DULCIMER.
 
 
 We derive "Dulcimer" from the Spanish "Dulcemele" as the only
-etymology to be offered with any show of certainty. The ProvenÁal
+etymology to be offered with any show of certainty. The Proven√ßal
 "Lai" was in the Latin of the period "Dulcis Cantus,"--"Dulcemele"
 (Lat. _Dulce Melos_) has a kindred ring, and by the change of a
 liquid "Dulcimer" has become an accepted name.
@@ -1829,7 +1799,7 @@ the impression of almost sustained sound. The Italians called the
 dulcimer "Salterio Tedesco," or German psaltery, but have now adopted
 Zimbalon; the Germans call it a "Hackbrett," or chopping board. It
 is generally an instrument popular among the humbler classes, and
-in modern times it assumes its most important rÙle as the cimbalon
+in modern times it assumes its most important r√¥le as the cimbalon
 in the Hungarian gipsy bands. The specimen here drawn belonged to
 Mr. Kendrick Pyne of Manchester, and is now in the possession of
 Mr. H. Boddington; it is elevated upon a stand, and is in a case,
@@ -1930,9 +1900,9 @@ the men who made and possessed them. Besides the one quoted (Let all
 that breathe praise the Lord), we find LAVS DEO (Praise be to God),
 MVSICA DONVM DEI (Music is the gift of God), MVSICA MAGNORVM EST
 SOLAMEN DVLCE LABORVM (Music is the sweet solace to great labours),
-CONCORDIA RES PARV∆ CRESCVNT, DISCORDIA MAXIM∆ DILABVNTVR (By Concord
+CONCORDIA RES PARV√Ü CRESCVNT, DISCORDIA MAXIM√Ü DILABVNTVR (By Concord
 small things grow, by Discord great things fall away), SIC TRANSIT
-GLORIA MVNDI (So passeth away the glory of the world), MVSICA L∆TITI∆
+GLORIA MVNDI (So passeth away the glory of the world), MVSICA L√ÜTITI√Ü
 COMES MEDICINA DOLORVM (Music is the companion of joy and medicine
 of griefs), CONCORDIA MVSIS AMICA (Concord is the Muses' friend),
 ACTA VIRVM PROBANT (Deeds prove the man), SCIENTIA NON HABET INIMICVM
@@ -1954,7 +1924,7 @@ appearing in the round opening of the sound-board, bearing the
 maker's trade mark, which contains his initials, I.R., and near
 it is written with ink, _Anno_ 1622. Upon the rail above the
 jacks (plectra) is the inscription, JOANNES RVCKERS FECIT
-ANTVERPI∆. There is a picture in the National Gallery in London,
+ANTVERPI√Ü. There is a picture in the National Gallery in London,
 from the Peel Collection, painted by Metsu, wherein is depicted a
 precisely similar instrument, possibly his own, as he has it again
 in a picture belonging to the collection of Sir Francis Cook, at
@@ -2352,7 +2322,7 @@ tortoiseshell or quill.
 
 PLATE XXIV.
 
-WELSH CRWTH. RUSSIAN BALALƒIKA.
+WELSH CRWTH. RUSSIAN BALAL√ÑIKA.
 
 
 The Crwth is a rare Welsh instrument, supposed to have been the
@@ -2379,9 +2349,9 @@ viols. It is said there was a three-stringed crwth (Crwth thrithant)
 probably bowed, and tuned as the first, fifth, and octave, but I am
 disposed to agree with the late Carl Engel (_Researches into the
 Early History of the Violin Family_: London, 1883) that this could be
-no other than the mediÊval Rebec. From observations made, more than
+no other than the medi√¶val Rebec. From observations made, more than
 a hundred years ago, by the Hon. Daines Barrington (published in the
-_ArchÊologia_ of the Society of Antiquaries, London, Vol. III. p.
+_Arch√¶ologia_ of the Society of Antiquaries, London, Vol. III. p.
 20), who had the advantage of hearing a performer claiming to be the
 last upon the instrument, the accordance of the six-stringed crwth
 was--
@@ -2399,7 +2369,7 @@ were bowed together but not all four strings at once, as has been
 sometimes supposed. To effect this there must have been a peculiar
 knack in using the bow. From the large openings on either side of
 the finger-board it is possible to trace, through the intermediate
-mediÊval Rotta or Rote, a descent from the GrÊco-Roman Cythara or
+medi√¶val Rotta or Rote, a descent from the Gr√¶co-Roman Cythara or
 Lyre. There are two sound-holes in the belly, and the bridge, which
 is placed obliquely, has the right foot resting upon the belly,
 while the left foot, as in the tromba marina, passes through the
@@ -2418,11 +2388,11 @@ reconstructed by Richard Evans. It was restored very carefully by
 Mr. George Chanot before being shown at South Kensington in the Loan
 Collection of 1872.
 
-The BALALƒIKA is the Russian peasant's guitar. This example
+The BALAL√ÑIKA is the Russian peasant's guitar. This example
 was drawn because of the ornament, but the common instrument is
 usually quite plain. It came from Moscow tuned [Music] but another
 in my possession, sent to me at the same time from St. Petersburg,
-was tuned [Music]. The Balal‰ika has three frets attached to the
+was tuned [Music]. The Balal√§ika has three frets attached to the
 neck, for stopping the semitone, whole tone, and minor third on
 each string. The strings are of catgut. The quality of tone is very
 sympathetic, almost sad.
@@ -2433,7 +2403,7 @@ base, 30 inches; the finger-board, 13 inches; the width at base is
 duodecagon, 5-3/4 inches. The corresponding measures of the simple
 peasant's instruments are--26-3/4, 13-3/4, 13, and 3-1/2 inches.
 
-The peculiar triangular shape of the Balal‰ika is of very primitive
+The peculiar triangular shape of the Balal√§ika is of very primitive
 character, the curved form in lutes and guitars being an artistic
 development. In a delightfully realistic Russian bronze shown
 at the Health Exhibition, South Kensington, 1884, the performer
@@ -2467,7 +2437,7 @@ This Violin is considered to be one of the perfect earlier works of
 Stradivarius, and is of full proportions. It has greater breadth than
 the so-called "grand" pattern of that famous maker, and is one of his
 inlaid violins, of which there are not more than twelve extant. A
-letter of Stradivarius, recording the price (£40) Sir Samuel Hellier
+letter of Stradivarius, recording the price (¬£40) Sir Samuel Hellier
 paid for it, was forthcoming until a few years ago, when it was
 unfortunately lost. We are not informed why Stradivarius should have
 kept this instrument in his own possession for fifty-five years--it
@@ -2499,7 +2469,7 @@ instrument and its various powers are brought out, is not less worthy
 of admiration than the violin itself. The gradual improvement of
 the bow has followed the development and improvement of the violin,
 and the settlement of its form and materials in the last quarter of
-the last century by FranÁois Tourte, in reality made the violin a
+the last century by Fran√ßois Tourte, in reality made the violin a
 different instrument from what it had been before. With Tourte's bow
 came a power of expression in violin-playing previously unknown.
 
@@ -2510,7 +2480,7 @@ came a power of expression in violin-playing previously unknown.
 
 PLATE XXVI.
 
-VIOLINS, THE ALARD STRADIVARIUS, THE KING JOSEPH GUARNERIUS DEL GESŸ.
+VIOLINS, THE ALARD STRADIVARIUS, THE KING JOSEPH GUARNERIUS DEL GES√ô.
 
 
 The back and front views of the Violin to the left of this Plate
@@ -2547,7 +2517,7 @@ the instruments may have passed. Paolo was a cloth merchant, not
 a violin-maker, but he succeeded to his father's house after the
 decease of his brothers.
 
-The "King Joseph" Guarnerius del Ges˘ Violin (del Ges˘ on account of
+The "King Joseph" Guarnerius del Ges√π Violin (del Ges√π on account of
 his signing his violins with the device [Illustration: I.H.S.]), of
 which back and front views appear to the right of the Plate, also
 belongs to Mr. Laurie, who has allowed this fine instrument to be
@@ -2568,7 +2538,7 @@ would be detrimental to the artistic effect, but it is not. The
 arching of the belly and back is with Guarnerius less marked than
 with Stradivarius. Generally speaking, Guarnerius left his bellies
 thicker than those of Stradivarius. As may be expected, there is
-a decided difference in tone between a Guarnerius del Ges˘ and a
+a decided difference in tone between a Guarnerius del Ges√π and a
 Stradivarius. I am indebted to Dr. William Huggins, F.R.S., for the
 following interesting comparison. The Stradivarius possesses, as a
 rule, a brighter tone with unlimited capacity for expressing the
@@ -2579,9 +2549,9 @@ The tone of Guarnerius has intense individuality, it is powerful and
 somewhat contralto in quality, with a superb mellow richness strongly
 tinged with melancholy.
 
-The famous "King Joseph" Guarnerius del Ges˘ was formerly in the
+The famous "King Joseph" Guarnerius del Ges√π was formerly in the
 celebrated collection formed by the late James Goding. It was sold
-after his decease in 1857 to the Viscomte de JanzÈ, from whom Mr.
+after his decease in 1857 to the Viscomte de Janz√©, from whom Mr.
 Laurie obtained it. The Tourte bow, mounted with gold, tortoiseshell
 and mother of pearl, shown in the same Plate, is also Mr. Laurie's.
 
@@ -2659,7 +2629,7 @@ Instrumentation_, writes of the Love Viol with sympathetic strings,
 "The quality of the Viole d'Amour is faint and sweet; there is
 something seraphic in its partaking at once of the viola and the
 harmonics of the violin. It is peculiarly suitable to the legato
-style, to dreamy melodies, and to the expression of Êsthetic or
+style, to dreamy melodies, and to the expression of √¶sthetic or
 religious feeling." It will, I think, be conceded that when an
 instrument which has gone out of fashion possesses some special
 quality, such as is found in this fascinating viol, there is
@@ -2752,7 +2722,7 @@ BELL HARP AND HURDY-GURDY.
 
 The Bell Harp, although it appears in modern pre-Raphaelite paintings
 and is a kind of wire-strung psaltery, cannot be classed as a
-mediÊval instrument, as it dates only from about the year 1700. Its
+medi√¶val instrument, as it dates only from about the year 1700. Its
 invention is attributed to John Simcock, a soldier, who, judging from
 the label inside, probably gave the name of his superior officer
 to the instrument. It reads as follows:--"John Simcock, in the
@@ -2816,8 +2786,8 @@ fiddler's bow, the wheel being also prepared, like the bow, with
 rosin. Sympathetic strings are not unfrequently attached.
 
 The Hurdy-Gurdy here drawn has within the sound-body the maker's
-label, "Louvet, Luthier, ‡ la Vielle Royale, rue de la Croix des
-Petits Champs, ‡ la cÙtÈ de la petite porte Saint HonorÈ ‡ Paris,
+label, "Louvet, Luthier, √† la Vielle Royale, rue de la Croix des
+Petits Champs, √† la c√¥t√© de la petite porte Saint Honor√© √† Paris,
 1757." The length, without the head, is 19-1/2 inches; the breadth
 being respectively 8-1/8 and 10 inches across the belly at the wider
 measures. The carving of the head in this and many other vielles and
@@ -2834,7 +2804,7 @@ musette (a refined bagpipe) occur in contemporary French paintings.
 But after the French Revolution the hurdy-gurdy was relegated once
 more to the highways and byeways; the last popular street player in
 Paris was Barbu, who, according to Mr. Louis Pagnerre, was to be
-heard previous to 1870, in the Champs ElysÈes and other open spaces,
+heard previous to 1870, in the Champs Elys√©es and other open spaces,
 and occasionally in the courtyards of the houses of his patrons.
 He sometimes gave concerts, for he was an artist, and had taste as
 well as executive talent; he could make the instrument sing, use it
@@ -2856,7 +2826,7 @@ SORDINI.
 
 The Sordino is a pocket fiddle, the "Pochette" of the French and
 the "Taschengeige" of the Germans. In form it is derived from
-the mediÊval rebec which came from the East, and was also known
+the medi√¶val rebec which came from the East, and was also known
 as "gigue." It was distinguished from the viol family by the
 neck being a prolongation of the body of the instrument, instead
 of an attachment to it. A diminutive viol, the dancing master's
@@ -2867,8 +2837,8 @@ the undoubted work of Stradivarius. Tarisio, a well-known violin
 collector, brought it from Italy to France, and Louis Clapisson, the
 violinist, composer, and collector, eventually bought it in 1858, and
 employed it in his opera of "Les trois Nicolas," writing a gavotte
-for it. The late M. Chouquet (author of _Le MusÈe du Conservatoire
-National de Musique_, Paris, a catalogue _raisonnÈ_ of the musical
+for it. The late M. Chouquet (author of _Le Mus√©e du Conservatoire
+National de Musique_, Paris, a catalogue _raisonn√©_ of the musical
 instruments in that collection) has described, in enthusiastic terms,
 the effect of this little instrument when a gavotte was played upon
 it by Croisilles. "It was remembered," he says, "with pleasure by
@@ -3049,7 +3019,7 @@ it was then known. Scarlatti found such new features to display in
 technical contrivance and effect, that we are still attracted by
 an individuality the originality of which is, as yet, untouched by
 time. The only parallel instance, although resembling it in no other
-way, is that of FrÈdÈric Chopin as a composer and performer on the
+way, is that of Fr√©d√©ric Chopin as a composer and performer on the
 pianoforte.
 
 With the harpsichord went out the figured bass accompaniment, or
@@ -3271,11 +3241,11 @@ These five instruments belong to the Brussels Conservatoire Royal.
 
 PLATE XXXVIII.
 
-TWO DOUBLE FLAGEOLETS, A GERMAN FLUTE, AND TWO FL€TES DOUCES.
+TWO DOUBLE FLAGEOLETS, A GERMAN FLUTE, AND TWO FL√õTES DOUCES.
 
 
-The Flageolet is the last example in present use of the "fl˚tes
-douces," or "‡ bec" (German Blockflˆten), bored with reversed cones,
+The Flageolet is the last example in present use of the "fl√ªtes
+douces," or "√† bec" (German Blockfl√∂ten), bored with reversed cones,
 that is to say, with the embouchure at the larger end. It is referred
 to by Pepys in his _Diary_ (1st March, 1666): "Being returned home I
 find Greeting, the flageolet-master, come, and teaching my wife, and
@@ -3287,7 +3257,7 @@ of having two pipes of the same note fastened together, so as I can
 play in one and then echo it upon the other, which is mighty pretty."
 
 The double flageolets in the Plate were made by W. Bainbridge,
-London, who had a speciality for such instruments. The fl˚tes
+London, who had a speciality for such instruments. The fl√ªtes
 douces--in Shakspeare's _Hamlet_ the "Recorders"--were made in
 families like viols, cromornes, shawms, and other well-known
 Elizabethan instruments, a fashion that modern instrumentation shows
@@ -3295,18 +3265,18 @@ a tendency to return to. Evelyn, in 1679, mentions them as "now in
 much request for accompanying the voice." A bass and treble flute is
 drawn, also a one-keyed German or transverse flute which, in the last
 century, from its beauty and tone, although defective in intonation,
-was a favourite instrument, and supplanted the fl˚te douce in public
+was a favourite instrument, and supplanted the fl√ªte douce in public
 favour. In the concerts of ancient music given in July, 1885, by
 members of the Brussels Conservatoire in the Music Room of the
 Inventions Exhibition, South Kensington, a movement from a Concerto
 by Quanz (music-master to Frederick the Great) was played by Mr.
 Dumon on a single-keyed ivory flute. In the same concerts, Mr. Dumon
 and his pupils played a March of the Lansquenets, of the time of the
-Peace of Cambrai (1519), on eight fl˚tes douces (flauti dolci), in
+Peace of Cambrai (1519), on eight fl√ªtes douces (flauti dolci), in
 parts, accompanied by a drum. This was the military music of that
 period.
 
-The German flute is the second instrument in the Plate; the fl˚tes
+The German flute is the second instrument in the Plate; the fl√ªtes
 douces are the third and fifth from left to right. These instruments
 and those drawn in the next Plate are the property of Messrs. J. & R.
 Glen, Edinburgh.
@@ -3365,7 +3335,7 @@ corno di bassetto, to the extreme right of the Plate, is the alto
 clarinet, a fifth lower in pitch than the clarinet in C. It is said
 to have been invented at Passau in Bavaria in 1770, but the name of
 the inventor is not recorded. It was improved by Lotz of Presburg in
-1782, and again by Iwan M¸ller in 1812. Mozart wrote two parts for
+1782, and again by Iwan M√ºller in 1812. Mozart wrote two parts for
 basset horns in his famous Requiem. The relative positions in the
 Plate of the Oboe and Oboe da Caccia are indicated above.
 
@@ -3376,81 +3346,81 @@ Plate of the Oboe and Oboe da Caccia are indicated above.
 
 PLATE XL.
 
-SIT¡RS AND VÕNA.
+SIT√ÅRS AND V√çNA.
 
 
-The Sit·r is the favourite instrument of Upper India, and was
+The Sit√°r is the favourite instrument of Upper India, and was
 reintroduced and perfected by the poet-musician Amir Khusru of Delhi
 in the thirteenth century. The name is Persian, and implies "three
-strings," although the Sit·r has now usually five, six, and sometimes
-seven strings. Sit·rs called _Taruffe_ have sympathetic strings of
+strings," although the Sit√°r has now usually five, six, and sometimes
+seven strings. Sit√°rs called _Taruffe_ have sympathetic strings of
 fine wire attached to the side of the neck and passing underneath
 the frets and bridge, to vibrate in unison with the notes of the
 same pitch that are played. This contrivance, although of recent
 date in Europe, is of great antiquity in the East, being mentioned
-in the SangÌta Ratn‚kera, the earliest known work in Sanscrit upon
-music. The principal strings of the Sit·r are sounded by a wire
+in the Sang√≠ta Ratn√¢kera, the earliest known work in Sanscrit upon
+music. The principal strings of the Sit√°r are sounded by a wire
 plectrum worn upon the forefinger of the player's right hand; and
 their accordance, which was noted when given to Mr. A.J. Ellis and
-myself by H.H. The R·jah R·m P·l Singh, an Indian prince residing
-in England, who played upon a fine Sit·r now in my possession, is
+myself by H.H. The R√°jah R√°m P√°l Singh, an Indian prince residing
+in England, who played upon a fine Sit√°r now in my possession, is
 [Music]. Here the keynote, or khuruj, is F. This method of tuning,
 although not so common as tunings given later, is employed in the
 north of India and the Punjab; and a similar employment of the
 second and third for open strings may be found in the tuning of the
-Sur-s'ring‚ra. The F string is the melody string stopped by the
+Sur-s'ring√¢ra. The F string is the melody string stopped by the
 frets. The other strings are occasionally struck, but are rarely
 fretted, and never to produce harmony. The brass frets are secured
 to the neck by catgut ties, and are movable, so that by changing
 their positions different modes are obtained. The classical Sanscrit
-name for the Sit·r, the instrument drawn on the left, was Tritantri
-(three-stringed) VÌna. A form of Sit·r, with a flat body, was called
-K·chapi (Kacchapa, a tortoise) VÌna, now known as K·chw‚ Sit·r. The
-usual tuning of Sit·rs having from three to seven strings is to these
+name for the Sit√°r, the instrument drawn on the left, was Tritantri
+(three-stringed) V√≠na. A form of Sit√°r, with a flat body, was called
+K√°chapi (Kacchapa, a tortoise) V√≠na, now known as K√°chw√¢ Sit√°r. The
+usual tuning of Sit√°rs having from three to seven strings is to these
 intervals:--
 
 [Music]
 
 In these tunings C is the khuruj or keynote, the melody string being
-m·hdyam‚ or F. Sit·rs have usually seventeen to eighteen frets. The
+m√°hdyam√¢ or F. Sit√°rs have usually seventeen to eighteen frets. The
 five methods of arranging them, so as to produce different modes,
-styled Th‚t, are as follows:--
+styled Th√¢t, are as follows:--
 
 [Illustration: Intervals upon the F or melody string.]
 
-The word "Th‚t," employed to signify scale or mode, should not be
-confounded with "R‚ga," the foundation of all Indian music. R‚ga has
+The word "Th√¢t," employed to signify scale or mode, should not be
+confounded with "R√¢ga," the foundation of all Indian music. R√¢ga has
 no equivalent in European musical language, but may be described as
 a melody type founded upon the intervals of a mode, and having a
 succession of notes so arranged as to excite a certain feeling of
-the mind. There may be many melodies in the same r‚ga, differing
-distinctly from each other. Methods for the Sit·r have been written
-in Beng‚li by the R·jah Sir S.M. Tagore, a well-known amateur, and
-in Mahr·tti by a Brahmin musician of Poona, Anna Gh·rpure, a fine
-performer now in the service of H.H. the Th‚kore Sahib of Wadhw‚n.
-Besides the R·jah R·m P·l Singh, I had an opportunity of hearing
+the mind. There may be many melodies in the same r√¢ga, differing
+distinctly from each other. Methods for the Sit√°r have been written
+in Beng√¢li by the R√°jah Sir S.M. Tagore, a well-known amateur, and
+in Mahr√°tti by a Brahmin musician of Poona, Anna Gh√°rpure, a fine
+performer now in the service of H.H. the Th√¢kore Sahib of Wadhw√¢n.
+Besides the R√°jah R√°m P√°l Singh, I had an opportunity of hearing
 a player from Jeypur, at an exhibition called "India in London,"
 in 1886. The technique and charm of his performance are not easily
-forgotten. The resonance body of an ordinary Sit·r is a gourd, but he
-had one with two gourds, known as the "Been," or VÌna Sit·r.
+forgotten. The resonance body of an ordinary Sit√°r is a gourd, but he
+had one with two gourds, known as the "Been," or V√≠na Sit√°r.
 
-The Sit·r in the centre, with fiddle-shaped body, is the S˙rsanga, or
+The Sit√°r in the centre, with fiddle-shaped body, is the S√∫rsanga, or
 Esrar without sympathetic strings, a bowed instrument combining the
-Sit·r with the S·rungÌ. It is a modern instrument, and is intended
+Sit√°r with the S√°rung√≠. It is a modern instrument, and is intended
 to accompany women's voices. It has four strings, tuned, upon the
-authority of the R·jah Sir S.M. Tagore, as given by Mr. Victor
+authority of the R√°jah Sir S.M. Tagore, as given by Mr. Victor
 Mahillon in his admirable Catalogue of the Museum of the Brussels
 Conservatoire, [Music].
 
 The third instrument, upon the right, attached to two gourds, is
-the Mahati or great VÌna--known now as the "Been." It is the most
+the Mahati or great V√≠na--known now as the "Been." It is the most
 ancient and finest Indian instrument, and is also the most difficult
 to play. It is composed of a bamboo resting upon two gourds, and has
 seven strings--two at the side nearest the F or melody string, four
 over the frets, and one at the side away from the melody string. The
 tuning, the pitch varying with the size of the instrument, is as
-follows:--[Music] The string ◊ is tuned E or A as required in the
-"r‚ga" played. In the drawing five strings have been shown over the
+follows:--[Music] The string √ó is tuned E or A as required in the
+"r√¢ga" played. In the drawing five strings have been shown over the
 frets; the string, however, from the peg above and nearest to the
 nut, should pass over a small ivory head, not shown, but placed on
 the side of the bamboo, between the second and third frets, to the
@@ -3463,28 +3433,28 @@ upwards; the single side string, upon the other side, is struck by
 the little finger of the left hand when required. The instrument is
 held with the gourd nearest the nut resting upon the left shoulder,
 while the right gourd rests beneath the right arm. It should be noted
-that the disposition of strings is, in VÌnas, reversed from that of
-Sit·rs. There is a peculiarly soft and plaintive quality of tone in
-the VÌna that is altogether wanting in the Sit·r.
+that the disposition of strings is, in V√≠nas, reversed from that of
+Sit√°rs. There is a peculiarly soft and plaintive quality of tone in
+the V√≠na that is altogether wanting in the Sit√°r.
 
 There are two systems of music in vogue in India at the present
-day--the Karn‚tik or southern system, and the Hindust‚ni or
+day--the Karn√¢tik or southern system, and the Hindust√¢ni or
 northern. The latter is chiefly in the hands of Mahomedan
 professors, who have borrowed from the Arabian and Persian systems.
-The Karn‚tik is more melodious, and possesses fewer traces of foreign
-innovation. Instruments used by Karn‚tik professors employ only the
+The Karn√¢tik is more melodious, and possesses fewer traces of foreign
+innovation. Instruments used by Karn√¢tik professors employ only the
 intervals of the tonic fourth and fifth (or their octaves) upon the
-open strings. Hence we find the southern Indian VÌna--an instrument
+open strings. Hence we find the southern Indian V√≠na--an instrument
 with only one resonance gourd, and a wooden body like a lute--tuned
 to the following intervals:--
 
 [Music] or [Music]
 
-the first method being known as "P·ncham‚ s'ruti," the latter as
-"M·hdyam‚ s'ruti," from the relative intervals between the strings.
+the first method being known as "P√°ncham√¢ s'ruti," the latter as
+"M√°hdyam√¢ s'ruti," from the relative intervals between the strings.
 
-The illustrations of the S˙rsanga, Mahati VÌna, and three-stringed
-Sit·r, are from a fine Indian collection, divided by the R·jah Sir
+The illustrations of the S√∫rsanga, Mahati V√≠na, and three-stringed
+Sit√°r, are from a fine Indian collection, divided by the R√°jah Sir
 Sourindro Mohun Tagore between the Brussels Conservatoire and the
 London Royal College of Music.
 
@@ -3515,7 +3485,7 @@ considers the drum first responded to the nascent conception of music
 in the prehistoric man, and has since been tenaciously preserved as
 an adjunct to religious service among partially civilised races. The
 Nautch girls, at "India in London," London, 1886, performed their
-soothing gyrations to the gentle S·rungÌ, a bowed instrument with
+soothing gyrations to the gentle S√°rung√≠, a bowed instrument with
 sympathetic strings, accompanied by the beating of such drums.
 
 There are many varieties of drums to be found in India, the names
@@ -3523,7 +3493,7 @@ varying in different parts of the country. The largest of the three
 Drums here shown is not used by professional musicians, but in bands
 of street music found in all bazaars, and over the gateways of
 temples, etc., called Nahabat, or Nakkera Khaneh (in South India,
-Perya mÈla), and composed of low-class Mahomedans, or Hindus of the
+Perya m√©la), and composed of low-class Mahomedans, or Hindus of the
 barber caste. Such bands consist of drums of various shapes and
 kinds, and primitive instruments of the oboe kind, with drones and
 cymbals. Musicians in the East are usually placed over the gateways,
@@ -3574,14 +3544,14 @@ SAW DUANG & BOW. SAW TAI & BOW. SAW OO & BOW. KLUI. PEE.
 
 
 These instruments belong to H.M. the King of Siam, and were drawn
-by the gracious permission of H.R.H. Prince NarÈs Varariddhi, then
+by the gracious permission of H.R.H. Prince Nar√©s Varariddhi, then
 Siamese Minister in England, and brother of the King.
 
 The Saw Tai, or Siamese fiddle (centre figure), has the lower part
 of the neck of carved ivory, and the upper part of gold enamelled.
 The back is of cocoa-nut shells, jewelled. There is a jewelled
 boss on the sound membrane, which is of parchment. It is the same
-instrument as the Javese Rab·b, and is of Persian origin. The
+instrument as the Javese Rab√°b, and is of Persian origin. The
 strings, three in number, of silk cord, meet at the top beneath the
 pegs, and pass under a ligature, whence they diverge to the bridge.
 It has no finger-board, and the length of string to vibrate is not
@@ -3622,7 +3592,7 @@ RANAT EK. KHONG YAI. TA'KHAY.
 
 These instruments, like those drawn in Plate XLII., belong to H.M.
 the King of Siam, and were also drawn for this work by the gracious
-permission of H.R.H. Prince NarÈs.
+permission of H.R.H. Prince Nar√©s.
 
 Harmonicons of wood and of metal, such as the Ranat and Khong,
 are the foundation of music in Siam, Burma, Java, and the Indian
@@ -3651,7 +3621,7 @@ with a crocodile's head and ivory ornaments.
 
 PLATE XLIV.
 
-HU-CH'IN & BOW. SH NG. SAN-HSIEN. P'I-P'A.
+HU-CH'IN & BOW. SH√äNG. SAN-HSIEN. P'I-P'A.
 
 
 We learn from Mr. J.A. Van Aalst's comprehensive treatise on Chinese
@@ -3674,17 +3644,17 @@ similarly bowed, and has half a cocoa-nut shell for the body, covered
 by a thin board. These bowed instruments, it is believed, found their
 way into China with the Buddhist religion.
 
-The name for the next instrument, the reed mouth-organ, ShÍng, sounds
+The name for the next instrument, the reed mouth-organ, Sh√™ng, sounds
 like "shung," rhyming with "sung." From this ancient instrument have
 come the modern popular developments of the "free-reed" organ, first
 applied about 1780, at the instance of Professor Kratzenstein, to
 organ reed-stops by a Copenhagen organ-builder named Kirsnick, who
 had settled at St. Petersburg, an invention soon afterwards carried
-to Germany by the celebrated AbbÈ Vogler. The French Harmonium
+to Germany by the celebrated Abb√© Vogler. The French Harmonium
 and American Organ, the concertinas and accordion, are well-known
 examples of the "free-reed" principle, which differs from the Church
 organ beating-reed inasmuch as the reed or vibrator of metal does not
-overlap any part of its frame. The ShÍng is a gourd with its top cut
+overlap any part of its frame. The Sh√™ng is a gourd with its top cut
 off and a flat cover cemented upon it. Twenty-one bamboo pipes are
 inserted round the cover, but four, being intended for convenience
 in holding the instrument, do not sound. Those intended to sound are
@@ -3696,7 +3666,7 @@ are merely ornamental, the actual lengths required being determined
 by slot-like cuttings in the pipes, not seen in front. There are
 seventeen sounding pipes, as already said, but only eleven notes, as
 some notes are repeated in the unison or octave. The scale, which the
-_‡ peu prËs_ musicians are satisfied with, may be thus noted--
+_√† peu pr√®s_ musicians are satisfied with, may be thus noted--
 
 [Music]
 
@@ -3711,7 +3681,7 @@ Mr. N.B. Dennys, in his valuable notes on Chinese Musical Instruments
 read before the North China Branch of the Asiatic Society, 21st
 October, 1873, gives the name of the three-stringed instrument in
 the drawing, with a long neck like a tamboura, as San-hsien, with
-which Mr. Van Aalst agrees. The Peking musicians called it Sien-tzÍ
+which Mr. Van Aalst agrees. The Peking musicians called it Sien-tz√™
 (pronounced like Shen-zy). Like the Japanese Siamisen the San-hsien
 has no frets. The drum-like body is covered on the upper side with
 snakeskin, the under side being left open as in a tambourine or
@@ -3753,7 +3723,7 @@ CHINESE TI-TZU, SO-NA, YUEH-CH'IN. JAPANESE HIJI-RIKI. CHINESE LA-PA.
 The Ti-tzu to the left in the Plate is the Chinese flute. It is
 usually bound round with waxed silk and ornamented with tassels. It
 has seven holes besides the embouchure, that nearest to the latter
-being covered with a thin membrane as in the ProvenÁal galoubet,
+being covered with a thin membrane as in the Proven√ßal galoubet,
 taken from the sap of the bamboo and melted at the moment it is
 applied, intended to make the quality of tone more reedy. The
 remaining six holes are stopped by the fingers. According to Mr. Van
@@ -3800,7 +3770,7 @@ this cause the instrument sounds about an octave lower than a pipe
 that is cylindrical. The Hiji-riki is of bamboo, the interior being
 covered with a bed of red lacquer. It has seven finger-holes and two
 thumb-holes at the back. The scale, as given by Mr. Victor Mahillon,
-from whose _Catalogue Descriptif et Analytique du MusÈe Instrumental
+from whose _Catalogue Descriptif et Analytique du Mus√©e Instrumental
 du Conservatoire Royal de Bruxelles_, I have been glad to borrow,
 here and elsewhere, is diatonic, with the occasional insertion of a
 sharp fourth. This interval is frequently heard in Chinese music,
@@ -3900,9 +3870,9 @@ The Siamisen is the commonest Japanese stringed instrument, and is
 played by the singing girls (Gesha); it has been the characteristic
 musical instrument at the Japanese Village, Knightsbridge, London.
 The name was there pronounced Samiseng (the _a_ as in father), and
-Dr. M¸ller, in an elaborate article on Japanese musical instruments
-in the _Mittheilungen der Deutschen Gesellschaft f¸r Natur und
-Vˆlkerkunde Ostasien's_, 6tes. Heft. (Berlin, 1884), invariably
+Dr. M√ºller, in an elaborate article on Japanese musical instruments
+in the _Mittheilungen der Deutschen Gesellschaft f√ºr Natur und
+V√∂lkerkunde Ostasien's_, 6tes. Heft. (Berlin, 1884), invariably
 writes Samiseng, but the spelling Siamisen is here adopted on the
 authority of Mr. Shuji Isawa, the Director of the School of Music,
 Tokio. In length it is about 37 inches, and has a resonance membrane
@@ -3926,7 +3896,7 @@ from the Chinese pentatonic scale, and from that known in Java as
 Salendro. The Japanese, as heard at the "village," may be described,
 when descending, as a major third, a semitone, a neuter or mean third
 (neither major nor minor, but equivalent to a three-quarter tone and
-a whole tone), thus [Music]--the ◊ denoting the mean third. This
+a whole tone), thus [Music]--the √ó denoting the mean third. This
 was accepted as right by natives of various parts of Japan brought
 together in the village whose speech dialects were not the same,
 although their musical dialect was thus uniform. However, since
@@ -3946,7 +3916,7 @@ in the plate.
 The Kokiu is a kind of fiddle, in its construction very like the
 Siamisen, only that it is played with a bow (kiu) instead of a
 plectrum or striker (batsi). It is usually a woman's instrument, but
-is now very little played. Dr. M¸ller only heard one player in Tokio,
+is now very little played. Dr. M√ºller only heard one player in Tokio,
 a blind man, from whom he took his description of the instrument and
 the manner of performance. The whole length of the Kokiu is about 25
 inches, the body being 5 inches long and broad. It is 2-1/2 inches
@@ -3979,7 +3949,7 @@ The Biwa is a lute-like instrument in the shape of a divided pear,
 becoming narrower upwards. The body is about 34 inches long, of
 which 7-1/2 come on to the finger-board. There are four frets on the
 finger-board. It has four strings in two thicknesses tuned, according
-to Dr. M¸ller, prime, quint, octave, tenth, like an infantry bugle,
+to Dr. M√ºller, prime, quint, octave, tenth, like an infantry bugle,
 but Dr. Isawa gives no less than six accordances. The Biwa is played
 with a bill-formed batsi 6-1/2 inches long, made of horn, wood,
 tortoiseshell, or ivory.
@@ -4043,7 +4013,7 @@ INDEX
 
   Al F[=a]r[=a]bi, on Arab Music                 xv.
 
-  Anna Gh·rpure (Mahr·tti), on the Sit·r                                  xl.
+  Anna Gh√°rpure (Mahr√°tti), on the Sit√°r                                  xl.
 
   Archlute                                      xvi.                     xxi.
 
@@ -4070,9 +4040,9 @@ INDEX
 
   Bainbridge, W. (flageolet-maker)                                   xxxviii.
 
-  Balal‰ika, Russian                                                    xxiv.
+  Balal√§ika, Russian                                                    xxiv.
 
-  Balal‰ika, Russian, tuning                                            xxiv.
+  Balal√§ika, Russian, tuning                                            xxiv.
 
   Balloon Guitar, Chinese                                               xlii.
 
@@ -4099,7 +4069,7 @@ INDEX
 
   Bebung (Clavichord)                                                  xxxii.
 
-  Been (VÌna Sit·r)                                                       xl.
+  Been (V√≠na Sit√°r)                                                       xl.
 
   Bell, C.D. (F.S.A. Scot.),
     on Gaelic Harps                                                       ii.
@@ -4288,9 +4258,9 @@ INDEX
 
   Fleischer, O., on the Lute                                              xv.
 
-  Fl˚te ‡ bec                                                        xxxviii.
+  Fl√ªte √† bec                                                        xxxviii.
 
-  Fl˚te Douce                                                        xxxviii.
+  Fl√ªte Douce                                                        xxxviii.
 
   Flute, German                               xxiii.                 xxxviii.
 
@@ -4323,7 +4293,7 @@ INDEX
     of Music and Musicians)                   xviii.              xviii. xix.
                                                                    xx. xxvii.
 
-  Guarnerius del Ges˘                           xii.                    xxvi.
+  Guarnerius del Ges√π                           xii.                    xxvi.
 
   Guitar, David Rizzio's                          x.                       x.
 
@@ -4379,10 +4349,10 @@ INDEX
   Hill, Arthur and Alfred,
     Collection of Musical Instruments                                    xxv.
 
-  Hindust‚ni or Northern Indian music                                     xl.
+  Hindust√¢ni or Northern Indian music                                     xl.
 
   Hipkins, A.J. (F.S.A.)
-    (Lute, Balal‰ika, Kokiu, Marimba)                        xv. xxiv. xlvii.
+    (Lute, Balal√§ika, Kokiu, Marimba)                        xv. xxiv. xlvii.
                                                                       xlviii.
 
   Historic Concerts (1885)                                 xii. xix. xxxviii.
@@ -4445,7 +4415,7 @@ INDEX
     and Pedal Harp)                                               xxi. xxxiv.
 
 
-  KARN¬TIK or Southern Indian Music                                       xl.
+  KARN√ÇTIK or Southern Indian Music                                       xl.
 
   Keene, S., spinet-maker                      xxii.                    xxii.
 
@@ -4489,7 +4459,7 @@ INDEX
 
   La-pa, Chinese                                                         xlv.
 
-  Laurie, David (Guarnerius del Ges˘
+  Laurie, David (Guarnerius del Ges√π
     and Stradivarius Violins)                                           xxvi.
 
   Lavoix fils, Henri, on Music
@@ -4522,9 +4492,9 @@ INDEX
 
   MACE, Thomas, on Lutes                                                  xv.
 
-  Mahati VÌna, Hindu                                                      xl.
+  Mahati V√≠na, Hindu                                                      xl.
 
-  M·hdyam‚ (melody string), Hindu                                         xl.
+  M√°hdyam√¢ (melody string), Hindu                                         xl.
 
   Mahillon, Victor, musicologist
     and writer on acoustics                                 xii. xix. xxxiii.
@@ -4546,7 +4516,7 @@ INDEX
 
   Mean or Neuter Thirds                          xv.                       v.
 
-  Mee, Rev. J.H., on AbbÈ Vogler              xviii.                    xliv.
+  Mee, Rev. J.H., on Abb√© Vogler              xviii.                    xliv.
 
   Mercator, medal of Sir Michael,
     instrument-maker to Henry VIII.                                    xviii.
@@ -4591,7 +4561,7 @@ INDEX
 
   Nakkera Khaneh, Indian                                                 xli.
 
-  NarËs Varariddhi, H.R.H. Prince             xxiii.             xlii. xliii.
+  Nar√®s Varariddhi, H.R.H. Prince             xxiii.             xlii. xliii.
 
   Nautch Girls, Indian                                                   xli.
 
@@ -4696,9 +4666,9 @@ INDEX
   Quinterna                                                            xxiii.
 
 
-  R¬GA, Hindu                                                             xl.
+  R√ÇGA, Hindu                                                             xl.
 
-  R·m P·l Singh, H.H. the R·jah                                           xl.
+  R√°m P√°l Singh, H.H. the R√°jah                                           xl.
 
   Ranat Ek, Siamese                               x.                   xliii.
 
@@ -4709,7 +4679,7 @@ INDEX
   Reissmann, Dr. A., on
     Musical Instruments                                                   xx.
 
-  RiaÒo, J.F., on Early
+  Ria√±o, J.F., on Early
     Spanish Music                              xvii.
 
   Rizzio, David                                   x.                       x.
@@ -4721,7 +4691,7 @@ INDEX
 
   Roses, rosettes in sound-boards                                        xiv.
 
-  Rotta, Rote, MediÊval                          xx.                    xxiv.
+  Rotta, Rote, Medi√¶val                          xx.                    xxiv.
 
   Rowbotham, J.F.,
     Musical History                              ix.                     xli.
@@ -4733,7 +4703,7 @@ INDEX
 
   ST. CECILIA Paintings                        xvii.                      xi.
 
-  Sand, George, _Les MaÓtres
+  Sand, George, _Les Ma√Ætres
     Sonneurs_                                                             iv.
 
   Sandbach, W., trumpet-maker                                        xxxviii.
@@ -4758,15 +4728,15 @@ INDEX
   Scheltzer, S., improved
     the bassoon                                                        xxxix.
 
-  SÍ, Chinese                                 xviii.
+  S√™, Chinese                                 xviii.
 
   Shaw, W., trumpet-maker                                               xxxv.
 
   Shawm, Schalmey, precursor of oboe                                   xxxix.
 
-  ShÍng, Chinese                              xviii.                    xliv.
+  Sh√™ng, Chinese                              xviii.                    xliv.
 
-  ShÍng, Chinese, scale                                                 xliv.
+  Sh√™ng, Chinese, scale                                                 xliv.
 
   Shepherd's pipe                               xiv.
 
@@ -4792,15 +4762,15 @@ INDEX
 
   Siamisen, Japanese, tunings                                          xlvii.
 
-  Sien-tzÍ, Chinese                                                     xliv.
+  Sien-tz√™, Chinese                                                     xliv.
 
   Silbermann, G., pianoforte-maker                                    xxxiii.
 
-  Sit·r, Hindu                                  xxi.                      xl.
+  Sit√°r, Hindu                                  xxi.                      xl.
 
-  Sit·r, Hindu, tunings                                                   xl.
+  Sit√°r, Hindu, tunings                                                   xl.
 
-  Sit·r, Hindu, modes                                                     xl.
+  Sit√°r, Hindu, modes                                                     xl.
 
   Skelton, John, Poet Laureate
     and author of a poem on the
@@ -4840,7 +4810,7 @@ INDEX
   Stradivarius                                    x.               xxv. xxvi.
                                                           xxviii. xxix. xxxi.
 
-  S˙rsanga, Hindu                                                         xl.
+  S√∫rsanga, Hindu                                                         xl.
 
   Sympathetic Strings                            xx.                   xxvii.
 
@@ -4853,7 +4823,7 @@ INDEX
 
   TABLA, Hindu                                                           xli.
 
-  Tagore, R·jah Sir S.M.,
+  Tagore, R√°jah Sir S.M.,
     on Indian Music                                                  xl. xli.
 
   Ta'khay, Siamese                              xix.                   xliii.
@@ -4862,7 +4832,7 @@ INDEX
 
   Tangent, Clavichord                                                  xxxii.
 
-  Taruffe (Sit·r)                                                        xli.
+  Taruffe (Sit√°r)                                                        xli.
 
   Taschengeige                                                          xxxi.
 
@@ -4870,7 +4840,7 @@ INDEX
 
   Tenoroon                                      xvi.                   xxxix.
 
-  Th‚t, Hindu                                                             xl.
+  Th√¢t, Hindu                                                             xl.
 
   Theorbo                                    xi. xx.                     xvi.
 
@@ -4888,7 +4858,7 @@ INDEX
   Tollemache, Lord (Queen
     Elizabeth's Lute)                                                     ix.
 
-  Tourte, FranÁois,
+  Tourte, Fran√ßois,
     violin-bow maker                                               xxv. xxvi.
 
   Trumpet                                                        xxxv. xxxvi.
@@ -4919,9 +4889,9 @@ INDEX
 
   Vielle, Hurdy-Gurdy                                                iv. xxx.
 
-  VÌna, Indian                                  xxi.                      xl.
+  V√≠na, Indian                                  xxi.                      xl.
 
-  VÌna, Indian, tunings                                                   xl.
+  V√≠na, Indian, tunings                                                   xl.
 
   Viola Bastarda                                                       xxvii.
 
@@ -4942,7 +4912,7 @@ INDEX
 
   Virginal                                viii. xxi.         viii. xviii. xx.
 
-  Vogler, AbbÈ, advocated
+  Vogler, Abb√©, advocated
     free reeds in organs                      xviii.                    xliv.
 
   Vvendelio, lute-maker                          xi.                      xv.
@@ -5011,365 +4981,4 @@ Esher._
 
 End of the Project Gutenberg EBook of Musical Instruments, by A. J. Hipkins
 
-*** END OF THIS PROJECT GUTENBERG EBOOK MUSICAL INSTRUMENTS ***
-
-***** This file should be named 58117-8.txt or 58117-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/8/1/1/58117/
-
-Produced by Chris Curnow, Linda Cantoni, and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-file was produced from images generously made available
-by The Internet Archive)
-
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org Section 3. Information about the Project Gutenberg
-Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 58117 ***
